@@ -36,22 +36,17 @@ Where permitted by the corresponding data-use agreements, pretrained model check
 
 ## Planned release
 
-The public release is expected to include:
+Following publication, this repository will provide the code, documentation, and resources needed to reproduce the main ASTRA analyses.
 
-- ASTRA model architecture and training code
-- Multi-foundation-model feature integration
-- Sparse mixture-of-experts contextualization
-- Multi-target representation reconstruction
-- Slide-level semantic alignment with structured pathology information
-- RNA-quality prediction pipelines
-- RIN-threshold classification
-- Text-guided tumor localization
-- Tumor-content estimation
-- Pan-cancer specimen-identity evaluation
-- Transcriptomic association and gene-set enrichment analysis
-- Evaluation and figure-generation scripts
+The release is expected to include:
+
+- Model training and inference code
+- Evaluation scripts
+- Analysis pipelines
 - Environment and dependency specifications
-- Example inference configurations
+- Example configurations
+
+Additional resources, including model checkpoints and processed features, will be shared where permitted by the corresponding data-use agreements.
 
 ---
 
