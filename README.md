@@ -70,9 +70,11 @@ The study uses a combination of publicly available, controlled-access, and insti
 
 Publicly available resources include:
 
-- **GTEx**
-- **The Cancer Genome Atlas (TCGA)**
-- Publicly released TCGA tumor-segmentation resources used for external evaluation
+- **GTEx** — [GTEx Portal](https://gtexportal.org/home/)
+- **The Cancer Genome Atlas (TCGA)** — [NCI Genomic Data Commons](https://portal.gdc.cancer.gov/)
+- **TCGA tumor-segmentation resources used for external evaluation** — [Zenodo](https://zenodo.org/records/18481478)
+
+Controlled-access and institutional datasets are subject to their respective access, privacy, and data-governance requirements and are not redistributed through this repository.
 
 CHTN and institutional clinical pathology data are subject to their respective access, privacy, and data-governance requirements and cannot necessarily be redistributed through this repository.
 
