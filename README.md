@@ -55,7 +55,7 @@ This repository accompanies the manuscript:
 
 > **Routine histology as a computational gatekeeper for specimen qualification before molecular testing: a retrospective multi-cohort study**
 
-The manuscript is currently under preparation/submission.
+The manuscript is currently under submission.
 
 ---
 
