@@ -2,7 +2,7 @@
 
 # ASTRA
 
-### Histology-based computational gatekeeper for pre-analytical molecular specimen qualification
+### Routine histology as a computational gatekeeper for pan-cancer molecular specimen qualification
 
 <p>
   <img src="https://img.shields.io/badge/Status-Manuscript%20under%20preparation-orange?style=flat-square" alt="Status">
