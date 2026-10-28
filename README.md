@@ -5,7 +5,7 @@
 ### Routine histology as a computational gatekeeper for pan-cancer molecular specimen qualification
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Manuscript%20under%20preparation-orange?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Manuscript%20under%20submission-orange?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Code-Release%20upon%20acceptance-lightgrey?style=flat-square" alt="Code">
   <img src="https://img.shields.io/badge/WSIs-55%2C398-blue?style=flat-square" alt="WSIs">
   <img src="https://img.shields.io/badge/Patients%20%2F%20Donors-23%2C932-blue?style=flat-square" alt="Patients">
