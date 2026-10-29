@@ -49,15 +49,7 @@ ASTRA was evaluated across **55,398 whole-slide images from 23,932 patients or d
 
 ---
 
-## 📄 Manuscript
 
-This repository accompanies the manuscript:
-
-> **Routine histology as a computational gatekeeper for specimen qualification before molecular testing: a retrospective multi-cohort study**
-
-The manuscript is currently under submission.
-
----
 
 ## 📦 Repository Status
 
